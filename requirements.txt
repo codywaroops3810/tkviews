@@ -1,0 +1,16 @@
+tkinter
+requests
+pytesseract
+Pillow
+rich
+scrolledtext
+threading
+time
+sys
+re
+random
+string
+base64
+urllib.parse
+json
+requests_toolbelt
